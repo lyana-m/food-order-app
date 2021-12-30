@@ -38,19 +38,16 @@ const Checkout = (props) => {
       city: cityIsValid,
     });
 
-    console.log(nameIsValid, streetIsValid, postalIsValid, cityIsValid);
-
     const isFormValid =
       nameIsValid && streetIsValid && postalIsValid && cityIsValid;
 
     if (isFormValid) {
-      const order = {
+      props.onSubmit({
         name,
         street,
         postal,
         city,
-      };
-      console.log(order);
+      });
 
       nameInput.current.value = "";
       streetInput.current.value = "";
