@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/%20//lyana-m.github.io/food-order-app/static/css/main.e2c55b61.chunk.css",
-    "main.js": "/%20//lyana-m.github.io/food-order-app/static/js/main.f573b852.chunk.js",
-    "main.js.map": "/%20//lyana-m.github.io/food-order-app/static/js/main.f573b852.chunk.js.map",
-    "runtime-main.js": "/%20//lyana-m.github.io/food-order-app/static/js/runtime-main.0f937e3a.js",
-    "runtime-main.js.map": "/%20//lyana-m.github.io/food-order-app/static/js/runtime-main.0f937e3a.js.map",
-    "static/js/2.90a82c45.chunk.js": "/%20//lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js",
-    "static/js/2.90a82c45.chunk.js.map": "/%20//lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js.map",
-    "index.html": "/%20//lyana-m.github.io/food-order-app/index.html",
-    "static/css/main.e2c55b61.chunk.css.map": "/%20//lyana-m.github.io/food-order-app/static/css/main.e2c55b61.chunk.css.map",
-    "static/js/2.90a82c45.chunk.js.LICENSE.txt": "/%20//lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/%20//lyana-m.github.io/food-order-app/static/media/meals.2971f633.jpg"
+    "main.css": "/lyana-m.github.io/food-order-app/static/css/main.e2c55b61.chunk.css",
+    "main.js": "/lyana-m.github.io/food-order-app/static/js/main.f573b852.chunk.js",
+    "main.js.map": "/lyana-m.github.io/food-order-app/static/js/main.f573b852.chunk.js.map",
+    "runtime-main.js": "/lyana-m.github.io/food-order-app/static/js/runtime-main.7c2d0e96.js",
+    "runtime-main.js.map": "/lyana-m.github.io/food-order-app/static/js/runtime-main.7c2d0e96.js.map",
+    "static/js/2.90a82c45.chunk.js": "/lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js",
+    "static/js/2.90a82c45.chunk.js.map": "/lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js.map",
+    "index.html": "/lyana-m.github.io/food-order-app/index.html",
+    "static/css/main.e2c55b61.chunk.css.map": "/lyana-m.github.io/food-order-app/static/css/main.e2c55b61.chunk.css.map",
+    "static/js/2.90a82c45.chunk.js.LICENSE.txt": "/lyana-m.github.io/food-order-app/static/js/2.90a82c45.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/lyana-m.github.io/food-order-app/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f937e3a.js",
+    "static/js/runtime-main.7c2d0e96.js",
     "static/js/2.90a82c45.chunk.js",
     "static/css/main.e2c55b61.chunk.css",
     "static/js/main.f573b852.chunk.js"
